@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/orion/.dotnet/store/|arch|/|tfm|",
+      "/Users/orion/.nuget/packages"
+    ]
+  }
+}
