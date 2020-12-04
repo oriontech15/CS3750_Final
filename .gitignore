@@ -361,3 +361,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 .DS_Store
+
+CS3750Final/CS3750Final/obj/Debug/netcoreapp3.1/CS3750Final.csprojAssemblyReference.cache
