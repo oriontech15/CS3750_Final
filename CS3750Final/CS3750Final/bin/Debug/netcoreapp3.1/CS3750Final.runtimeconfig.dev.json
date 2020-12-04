@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/orion/.dotnet/store/|arch|/|tfm|",
-      "/Users/orion/.nuget/packages"
+      "C:\\Users\\Nate\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nate\\.nuget\\packages"
     ]
   }
 }
