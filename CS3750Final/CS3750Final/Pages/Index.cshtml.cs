@@ -36,17 +36,6 @@ namespace CS3750Final.Pages
             //}
 
             //_unitOfWork.Save();
-
-            //bool email = emailbox ?? false;
-            //if (email)
-            //{
-            //    OrderDetailsCart.OrderHeader.EmailPreference = true;
-            //}
-            //else
-            //{
-            //    OrderDetailsCart.OrderHeader.EmailPreference = false;
-            //}
-
             return RedirectToPage("./tracker");
         }
     }

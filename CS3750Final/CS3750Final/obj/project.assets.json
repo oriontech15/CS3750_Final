@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\cjones1\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/orion/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjones1\\source\\repos\\CS3750_Final\\CS3750Final\\CS3750Final\\CS3750Final.csproj",
+      "projectUniqueName": "/Users/orion/Development/CS3750_Final/CS3750Final/CS3750Final/CS3750Final.csproj",
       "projectName": "CS3750Final",
-      "projectPath": "C:\\Users\\cjones1\\source\\repos\\CS3750_Final\\CS3750Final\\CS3750Final\\CS3750Final.csproj",
-      "packagesPath": "C:\\Users\\cjones1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjones1\\source\\repos\\CS3750_Final\\CS3750Final\\CS3750Final\\obj\\",
+      "projectPath": "/Users/orion/Development/CS3750_Final/CS3750Final/CS3750Final/CS3750Final.csproj",
+      "packagesPath": "/Users/orion/.nuget/packages/",
+      "outputPath": "/Users/orion/Development/CS3750_Final/CS3750Final/CS3750Final/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cjones1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/orion/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
       }
     }
   }
